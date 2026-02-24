@@ -1,4 +1,4 @@
-java program called CustomSubstitutionCipher
+java program called CustomSubstitutionCipher (uses JavaFX)
 
 Usage:
 
