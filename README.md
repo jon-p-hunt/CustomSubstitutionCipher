@@ -16,7 +16,7 @@ $ javac --module-path $PATH_TO_FX --add-modules javafx.controls CustomSubstituti
 
 $ java --module-path $PATH_TO_FX --add-modules javafx.controls CustomSubstitutionCipher
 
-Challenge (decyrpt this 4 sentence paragraph):
+Challenge (decyrpt this four-sentence paragraph):
 
 --
  5   40 9 62 7 2   7 19 2   56 7 62 9 5 2 56   3 63 62 33 7   7 19 2   17 3 118 2 ,   
